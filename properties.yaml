@@ -1,11 +1,11 @@
 # slack          : https://wit-hdip-comp-sci-21.slack.com/archives/C023N47HEJ1
-moodle         : https://elearning.uni-regensburg.de/course/view.php?id=55424
+moodle         : https://elearning.hs-regensburg.de/course/view.php?id=4332
 # youtube        : https://www.youtube.com/playlist?list=PLEuhMaR29LyBGowQ4W5vu67WR7YiPnsI6
 parent         : course/webdev-ai-ds-oth.netlify.app
 credits        : Markus Heckner, OTH Regensburg
 companions:
   piazza:
-    link : https://piazza.com/class/l10rl9aplb9lv
+    link : https://piazza.com/class/lf00g4sz87y7k2
     title : Piazza Q&A for this course
     icon:
       icon: academicons:piazza
@@ -13,11 +13,11 @@ companions:
 auth           : 0
 ignorepin      : 2125
 ignore :
-#  - topic-00-intro
+  - topic-00-intro
 #  - topic-01-HTML-CSS
-#  - topic-02-Bootstrap-JS
-#  - topic-03-JS-ContinuedWebAppBasics
-#  - topic-04-DBsMVC
-#  - topic-05-Formulare
-#  - topic-06-sessions
-#  - topic-07-weathertop
+  - topic-02-Bootstrap-JS
+  - topic-03-JS-ContinuedWebAppBasics
+  - topic-04-DBsMVC
+  - topic-05-Formulare
+  - topic-06-sessions
+  - topic-07-weathertop
