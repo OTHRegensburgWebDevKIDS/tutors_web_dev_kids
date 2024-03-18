@@ -1,1 +1,3 @@
 Kursüberblick
+
+Organisatorisches zum Kurs
