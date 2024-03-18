@@ -1,3 +1,3 @@
-Kursueberblick
+Kursüberblick
 
 Organisatorisches zum Kurs
