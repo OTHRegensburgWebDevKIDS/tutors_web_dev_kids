@@ -5,10 +5,10 @@ moodle         : https://elearning.oth-regensburg.de/course/view.php?id=6906
 credits        : Markus Heckner, OTH Regensburg
 companions:
   piazza:
-    link : https://piazza.com/class/m84m8p78u3k6gz/
-    title : Piazza Q&A for this course
+    link: https://piazza.com/class/m84m8p78u3k6gz/
+    title: Piazza Q&A for this course
     icon:
-      icon: academicons:piazza
+      type: academicons:piazza
       color: info
 auth           : 0
 ignorepin      : 2125
