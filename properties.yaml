@@ -9,7 +9,7 @@ companions:
     title : Piazza Q&A for this course
     icon:
       icon: academicons:piazza
-      colour: info
+      color: info
 auth           : 0
 ignorepin      : 2125
 ignore :
