@@ -1,3 +1,3 @@
 Beispielcode
 
-Replit mit Beispielcode aus der Lecture
+Beispielcode aus der Lecture
